@@ -5,7 +5,7 @@
   * Nuclear and Particle Physics
 * Swimming
 * Formula 1
-  * :+1: Kimi Raikkonen
+  * :car: Kimi Raikkonen
 * Traveling
   * Japan
   * Germany
